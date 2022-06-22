@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DAISIE"]
+	path = DAISIE
+	url = https://github.com/rsetienne/daisie
+	shallow = true
+	registered = true
