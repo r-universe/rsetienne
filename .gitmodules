@@ -8,3 +8,23 @@
 	url = https://github.com/rsetienne/daisie
 	shallow = true
 	registered = true
+[submodule "DAMOCLES"]
+	path = DAMOCLES
+	url = https://github.com/rsetienne/damocles
+	shallow = true
+	registered = true
+[submodule "DDD"]
+	path = DDD
+	url = https://github.com/rsetienne/ddd
+	shallow = true
+	registered = true
+[submodule "SADISA"]
+	path = SADISA
+	url = https://github.com/rsetienne/sadisa
+	shallow = true
+	registered = true
+[submodule "secsse"]
+	path = secsse
+	url = https://github.com/rsetienne/secsse
+	shallow = true
+	registered = true

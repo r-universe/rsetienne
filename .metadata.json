@@ -1,5 +1,21 @@
 [
   {
     "package": "DAISIE"
+  },
+  {
+    "package": "DAMOCLES",
+    "oncran": true
+  },
+  {
+    "package": "DDD",
+    "oncran": true
+  },
+  {
+    "package": "SADISA",
+    "oncran": true
+  },
+  {
+    "package": "secsse",
+    "oncran": true
   }
 ]
