@@ -18,6 +18,11 @@
 	url = https://github.com/rsetienne/ddd
 	shallow = true
 	registered = true
+[submodule "PBD"]
+	path = PBD
+	url = https://github.com/cran/PBD
+	shallow = true
+	registered = true
 [submodule "SADISA"]
 	path = SADISA
 	url = https://github.com/rsetienne/sadisa
