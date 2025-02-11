@@ -13,7 +13,7 @@
 	url = https://github.com/rsetienne/ddd
 [submodule "PBD"]
 	path = PBD
-	url = https://github.com/cran/PBD
+	url = https://github.com/rsetienne/pbd
 [submodule "SADISA"]
 	path = SADISA
 	url = https://github.com/rsetienne/sadisa
